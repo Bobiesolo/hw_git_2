@@ -1,0 +1,7 @@
+1. Summary
+2. Steps to Reproduce(STP)
+3. Expectet Result
+4. Actual Result
+5. Priority
+6. Severity
+
